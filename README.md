@@ -4,9 +4,9 @@ My name is Jordan. I'm an aspiring data analyst with a degree in Computer Scienc
 
 Below are my data analytics and web-development portfolios, as well as some random stuff that I'm proud of.
 ## Skills
-**I know** Python, SQL, Excel, Linux CLI, JavaScript, MERN web-dev stack, marking surfaces with a writing utensil <br>
+**I know** Python, SQL, Excel, Linux CLI, JavaScript, MERN web-dev stack, marking surfaces with a writing utensil. <br>
 **I have used** SAS, C, Java,  **but it has been a while.** <br>
-**I am working on** PANDAS, Tableau, advanced SQL Queries, re-learning statistics topics from uni <br>
+**I am working on** improving all technical skills, as well as learning PANDAS and TABLEAU and brushing up on statistics stuff. <br>
 **I also have experience in** hospitality (~2 years, including a supervisor position,) food industry, TEFL, and retail. <br>
 ## Data Analytics
     // Still in Development //
