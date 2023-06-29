@@ -5,12 +5,10 @@ My name is Jordan. I'm an aspiring data analyst with a degree in Computer Scienc
 Below are my data analytics and web-development portfolios, as well as some random stuff that I'm proud of.
 
 ## Skills
-### I know
-Python, SQL, Excel, Linux CLI, JavaScript, MERN web-dev stack
-### I have used
-SAS, C, Java 
-### I am learning
-PANDAS, Tableau, advanced SQL Queries, re-learning statistics from uni
+**I know** Python, SQL, Excel, Linux CLI, JavaScript, MERN web-dev stack, marking surfaces with a writing utensil
+**I have used** SAS, C, Java,  **but it has been a while.** 
+**I am working on** PANDAS, Tableau, advanced SQL Queries, re-learning statistics topics from uni
+**I also have experience in** hospitality (~2 years, including a supervisor position,) food industry, TEFL, and retail. 
 
 ## Data Analytics
     // Still in Development //
@@ -30,6 +28,8 @@ A video of me speaking Spanish <br>
 A video of me speaking Egyptian Arabic <br>
 
 ### Books I've read lately
+
+Reviews [here](link)
 
 **May '23 A History of the Modern Middle East** - William E. Cleveland & Martin Bunton <br>
 I've been reading this textbook sporadically over the past few months and am half-way through it. It starts with a great overview of ancient history and then goes into detail about the Ottoman Empire, Persia, the states created after the Ottomans, etc. (I'm at World War I as of writing this.) 
