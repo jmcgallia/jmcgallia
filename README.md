@@ -3,32 +3,24 @@
 My name is Jordan. I'm an aspiring data analyst with a degree in Computer Science. I also enjoy programming in general and have been learning web development for fun in my fee-time. Other than that, I love learning new languages and studying linguistics and history.
 
 Below are my data analytics and web-development portfolios, as well as some random stuff that I'm proud of.
-
 ## Skills
-**I know** Python, SQL, Excel, Linux CLI, JavaScript, MERN web-dev stack, marking surfaces with a writing utensil
-**I have used** SAS, C, Java,  **but it has been a while.** 
-**I am working on** PANDAS, Tableau, advanced SQL Queries, re-learning statistics topics from uni
-**I also have experience in** hospitality (~2 years, including a supervisor position,) food industry, TEFL, and retail. 
-
+**I know** Python, SQL, Excel, Linux CLI, JavaScript, MERN web-dev stack, marking surfaces with a writing utensil <br>
+**I have used** SAS, C, Java,  **but it has been a while.** <br>
+**I am working on** PANDAS, Tableau, advanced SQL Queries, re-learning statistics topics from uni <br>
+**I also have experience in** hospitality (~2 years, including a supervisor position,) food industry, TEFL, and retail. <br>
 ## Data Analytics
     // Still in Development //
-
 ## Web Development
 I like web development because it lets me apply my computer science / programming skills with a creative twist. I'm not currently looking for a career in Web-Dev. I'm working up to the point where I feel confident enough to do a few personal projects that I have in mind.
 
 [Web Dev Portolfio](https://github.com/jmcgallia/Portfolio)
-
 ## Other
-
 ### Languages (Not yet done)
-
 A video of me speaking Persian <br>
 A video of me speaking Turkish <br>
 A video of me speaking Spanish <br>
 A video of me speaking Egyptian Arabic <br>
-
 ### Books I've read lately
-
 Reviews [here](link)
 
 **May '23 A History of the Modern Middle East** - William E. Cleveland & Martin Bunton <br>
