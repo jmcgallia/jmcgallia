@@ -12,6 +12,22 @@ I like web development because it lets me apply my computer science / programmin
 
 [Web Dev Portolfio](https://github.com/jmcgallia/Portfolio)
 
+## Other
+
+### Languages (Not yet done)
+
+A video of me speaking Persian
+A video of me speaking Turkish
+A video of me speaking Spanish
+A video of me speaking Egyptian Arabic
+
+### Books I've read lately
+
+**A History of the Modern Middle East** - William E. Cleveland & Martin Bunton
+I've been reading this textbook sporadically over the past few months and am half-way through it. It starts with a great overview of ancient history
+**Sapiens** - Yuval Noah Harari
+**The Foundation Trilogy** - Isaac Asimov
+
 <!--
 **jmcgallia/jmcgallia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
