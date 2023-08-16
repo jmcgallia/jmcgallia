@@ -4,23 +4,22 @@ My name is Jordan. I'm an aspiring data analyst with a degree in Computer Scienc
 
 Below are my data analytics and web-development portfolios, as well as some random stuff that I'm proud of.
 ## Skills
-**I know** Python, SQL, Excel, Linux CLI, JavaScript, MERN web-dev stack, writing things on paper. <br>
-**I have used** SAS, C, Java,  **but it has been a while.** <br>
-**I am working on** improving all technical skills, as well as learning PANDAS and TABLEAU and brushing up on statistics stuff. <br>
+**I know** Python, SQL, Excel, Tableau, Linux CLI, GIT, GitHub. <br>
+**I have used** SAS, C, Java, JavaScript, MERN web-dev stack **but it has been a while.** <br>
+**I am working on** improving all technical skills, as well as learning **PANDAS** and **TABLEAU** and brushing up on statistics stuff. <br>
 **I also have experience in** hospitality (~2 years, including a supervisor position,) food industry, TEFL, and retail. <br>
 ## Data Analytics
-    // Still in Development //
+Transportation Ranking Project
+8-Week SQL Challenge
 ## Web Development
 I like web development because it lets me apply my computer science / programming skills with a creative twist. I'm not currently looking for a career in Web-Dev. I'm working up to the point where I feel confident enough to do a few personal projects that I have in mind.
 
-[Web Dev Portolfio](https://github.com/jmcgallia/Portfolio)
-## Other
-### Languages (Not yet done)
-I've studied a few languages for fun. Here are my self-asessed levels on the [CEFR scale](https://www.coe.int/en/web/common-european-framework-reference-languages/level-descriptions)
-* **Persian (Farsi)** - B2 - Working on C1
-* **Turkish** - B1/B2
-* **Spanish** - B1
-* **Egyptian Arabic** - A2/B1
+You can see my web-dev projects [here](https://github.com/jmcgallia/Portfolio).
+## Misc
+Priority Queue Implementation (Python)
+Levenshtein Distance Calculator (C)
+Simpson's Rule MPI Implementation (C)
+
 ### Books I've read lately
 Reviews [here](https://github.com/jmcgallia/book_reviews/tree/main#readme)
 
