@@ -10,6 +10,7 @@ Below are my data analytics and web-development portfolios, as well as some rand
 **I also have experience in** hospitality (~2 years, including a supervisor position,) food industry, TEFL, and retail. <br>
 ## Data Analytics
 Transportation Ranking Project
+
 8-Week SQL Challenge
 ## Web Development
 I like web development because it lets me apply my computer science / programming skills with a creative twist. I'm not currently looking for a career in Web-Dev. I'm working up to the point where I feel confident enough to do a few personal projects that I have in mind.
@@ -17,7 +18,9 @@ I like web development because it lets me apply my computer science / programmin
 You can see my web-dev projects [here](https://github.com/jmcgallia/Portfolio).
 ## Misc
 Priority Queue Implementation (Python)
+
 Levenshtein Distance Calculator (C)
+
 Simpson's Rule MPI Implementation (C)
 
 ### Books I've read lately
