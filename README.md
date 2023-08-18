@@ -1,6 +1,6 @@
 # Hello.
 
-My name is Jordan. I'm an aspiring data analyst with a degree in Computer Science. I also enjoy programming in general and have been learning web development for fun in my free-time. Other than that, I love learning new languages and studying linguistics and history.
+My name is Jordan. I'm an aspiring data analyst with a degree in Computer Science. I also love programming, linguistics, and history.
 
 Below are my data analytics and web-development portfolios, as well as some random stuff that I'm proud of.
 ## Skills
