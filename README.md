@@ -17,14 +17,11 @@ Transportation Ranking Project
 [My projects](https://github.com/jmcgallia/webdev_portfolio).
 
 ## Random Programming Projects
-Priority Queue Implementation (Python)
-- My own implementation of a Priority Queue.
+[Priority Queue Implementation](.) (Python)
 
-Levenshtein Distance Calculator (C)
-- An old project from university that I wrote in C.
+[Levenshtein Distance Calculator]() (C)
 
-Simpson's Rule MPI Implementation (C)
-- Another old project from university.
+[Simpson's Rule MPI Implementation]() (C)
 
 ### Books I've read lately
 [Reviews/Summaries](https://github.com/jmcgallia/book_reviews/tree/main#readme)
