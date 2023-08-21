@@ -27,6 +27,6 @@ Simpson's Rule MPI Implementation (C)
 - Another old project from university.
 
 ### Books I've read lately
-Reviews [here](https://github.com/jmcgallia/book_reviews/tree/main#readme)
+[Reviews/Summaries](https://github.com/jmcgallia/book_reviews/tree/main#readme)
 
 
