@@ -14,14 +14,17 @@ Transportation Ranking Project
 [8-Week SQL Challenge](https://github.com/jmcgallia/8-week-sql-challenge/tree/main)
 ## Web Development
 
-You can see my web-dev projects [here](https://github.com/jmcgallia/webdev_portfolio).
+[My projects](https://github.com/jmcgallia/webdev_portfolio).
 
 ## Random Programming Projects
 Priority Queue Implementation (Python)
+- My own implementation of a Priority Queue.
 
 Levenshtein Distance Calculator (C)
+- An old project from university that I wrote in C.
 
 Simpson's Rule MPI Implementation (C)
+- Another old project from university.
 
 ### Books I've read lately
 Reviews [here](https://github.com/jmcgallia/book_reviews/tree/main#readme)
