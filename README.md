@@ -16,13 +16,6 @@ Below are my data analytics and web-development projects, as well as some random
 
 [My projects](https://github.com/jmcgallia/webdev_portfolio).
 
-## Random Programming Projects
-[Priority Queue Implementation](.) (Python)
-
-[Levenshtein Distance Calculator]() (C)
-
-[Simpson's Rule MPI Implementation]() (C)
-
 ### Books I've read lately
 [Reviews/Summaries](https://github.com/jmcgallia/book_reviews/tree/main#readme)
 
