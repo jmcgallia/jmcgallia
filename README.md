@@ -9,7 +9,7 @@ Below are my data analytics and web-development projects, as well as some random
 **I am working on** improving all technical skills, as well as learning **PANDAS** and **TABLEAU** and brushing up on statistics stuff. <br>
 **I also have experience in** hospitality (~2 years, including a supervisor position,) food industry, TEFL, and retail. <br>
 ## Data Analytics Projects
-[Minimum wage housing affordability over time (by county.)](https://github.com/jmcgallia/mw_housing)
+[Visualizing the affordability of housing on minimum wage over time (by county.)](https://github.com/jmcgallia/mw_housing)
 
 Where in NYC to improve transit (public transit study.)
 
