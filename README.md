@@ -11,11 +11,11 @@ Below are my data analytics and web-development projects, as well as some random
 ## Data Analytics Projects
 [Minimum wage housing affordability over time (By County.)](.)
 
-[NYC densest areas with most car users (public transit study.)]()
+[Where in NYC to improve transit (public transit study.)]()
 
 [Where in NYC to practice the language you're learning.]()
 
-[Densest US counties with the lowest public transit/walking/biking usage (public transit study.]()
+[Densest US counties with the lowest public transit/walking/biking usage (public transit study.)]()
 
 [8-Week SQL Challenge](https://github.com/jmcgallia/8-week-sql-challenge/tree/main)
 
