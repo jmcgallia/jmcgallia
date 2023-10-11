@@ -1,6 +1,6 @@
 # Hello.
 
-My name is Jordan. I love programming, linguistics, and history.
+My name is Jordan. I love data science, programming, linguistics, and history.
 
 Below are my data analytics and web-development projects.
 ## Skills
