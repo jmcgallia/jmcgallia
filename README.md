@@ -2,7 +2,7 @@
 
 My name is Jordan. I love programming, linguistics, and history.
 
-Below are my data analytics and web-development projects, as well as some random stuff that I'm proud of.
+Below are my data analytics and web-development projects.
 ## Skills
 **I know** Python, SQL, Excel, Tableau, Linux CLI, GIT, GitHub. <br>
 **I have used** SAS, C, Java, JavaScript, MERN web-dev stack **but it has been a while.** <br>
