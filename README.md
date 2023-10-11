@@ -11,11 +11,7 @@ Below are my data analytics and web-development projects, as well as some random
 ## Data Analytics Projects
 [Visualizing the affordability of housing on minimum wage over time (by county.)](https://github.com/jmcgallia/mw_housing)
 
-Where in NYC to improve transit (public transit study.)
-
-Where in NYC to practice the language you're learning.
-
-Densest US counties with the lowest public transit/walking/biking usage (public transit study.)
+Where to build public transit in the US (public transit study.) (IN PROGRESS)
 
 [8-Week SQL Challenge](https://github.com/jmcgallia/8-week-sql-challenge/tree/main)
 
@@ -23,8 +19,6 @@ Densest US counties with the lowest public transit/walking/biking usage (public 
 
 [My projects](https://github.com/jmcgallia/webdev_portfolio).
 
-## Some Algorithms
-[My solutions to some "leetcode" algorithm questions.](.)
 
 ## Books I've read lately
 [Reviews/Summaries](https://github.com/jmcgallia/book_reviews/tree/main#readme)
