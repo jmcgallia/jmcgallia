@@ -6,7 +6,7 @@ Below are my data analytics and web-development projects.
 ## Skills
 **I know** Python, SQL, Excel, Linux CLI, GIT, GitHub. <br>
 **I have used** SAS, C, Java, JavaScript, MERN web-dev stack **but it has been a while.** <br>
-**I am working on** improving all technical skills, as well as learning **PANDAS** and **TABLEAU** and brushing up on statistics stuff. <br>
+**I am working on** learning Pandas and Tableau and more about the world in general (history, economics, etc.) <br>
 **I also have experience in** hospitality (~2 years, including a supervisor position,) food industry, TEFL, and retail. <br>
 ## Data Analytics Projects
 [Visualizing the affordability of housing on minimum wage over time (by county.)](https://github.com/jmcgallia/mw_housing)
