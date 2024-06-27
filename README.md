@@ -18,13 +18,18 @@ Where to build public transit in the US (public transit study.) (IN PROGRESS)
 [8-Week SQL Challenge](https://github.com/jmcgallia/8-week-sql-challenge/tree/main)
 
 ## Self-studying
-I've decided to go through a bunch of online courses that interest me or that I don't feel like I mastered enough at uni. Here are my solutions and explanations for the content of each course. I hope this shows my eagerness to learn and that my solutions/explanations might help other students taking these courses.
+I've decided to go through a bunch of online courses that interest me or that I don't feel like I mastered enough at uni. Here are my solutions and explanations for the content of each course. I hope this content shows my mastery of the material and eagerness to learn. I also hope that my solutions/explanations might help other students taking these courses.
 
 [MIT 6.042J - Mathematics for Computer Science]()
+
 [MIT 6.006 SC - Introduction to Algorithms]()
+
 [MIT 18.01 SC - Single Variable Calculus]()
+
 [MIT 18.02 SC - MultiVariable Calculus]()
+
 [Coursera - Intro to Machine Learning]()
+
 [8-Week SQL Challenge](https://github.com/jmcgallia/8-week-sql-challenge/tree/main)
 
 
