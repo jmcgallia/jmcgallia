@@ -1,23 +1,32 @@
 # Hello.
 
-My name is Jordan. I love data science, programming, linguistics, and history.
+My name is Jordan. I'm interested in computer science, analytics, linguistics, and world events/history.
 
 Below are my data analytics and web-development projects.
 ## Skills
 **I know** Python, SQL, Excel, Linux CLI, GIT, GitHub. <br>
 **I have used** SAS, C, Java, JavaScript, MERN web-dev stack **but it has been a while.** <br>
-**I am working on** learning Pandas and Tableau and more about the world in general (history, economics, etc.) <br>
-**I also have experience in** hospitality (~2 years, including a supervisor position,) food industry, TEFL, and retail. <br>
-## Data Analytics Projects
+**I am working on** sharpening base computer science skills and learning about ML. <br>
+**I also have experience** working as a data scientist and in many different service-industry jobs.<br>
+
+## Projects
+
 [Visualizing the affordability of housing on minimum wage over time (by county.)](https://github.com/jmcgallia/mw_housing)
 
 Where to build public transit in the US (public transit study.) (IN PROGRESS)
 
 [8-Week SQL Challenge](https://github.com/jmcgallia/8-week-sql-challenge/tree/main)
 
-## Web Development
+## Self-studying
+I've decided to go through a bunch of online courses that interest me or that I don't feel like I mastered enough at uni. Here are my solutions and explanations for the content of each course. I hope this shows my eagerness to learn and that my solutions/explanations might help other students taking these courses.
 
-[My projects](https://github.com/jmcgallia/webdev_portfolio).
+[MIT 6.042J - Mathematics for Computer Science]()
+[MIT 6.006 SC - Introduction to Algorithms]()
+[MIT 18.01 SC - Single Variable Calculus]()
+[MIT 18.02 SC - MultiVariable Calculus]()
+[Coursera - Intro to Machine Learning]()
+[8-Week SQL Challenge](https://github.com/jmcgallia/8-week-sql-challenge/tree/main)
+
 
 
 ## Books I've read lately
