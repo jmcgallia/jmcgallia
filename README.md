@@ -21,7 +21,7 @@ Where to build public transit in the US (public transit study.) (IN PROGRESS)
 According to some wise people, you learn best by teaching. Here are some of my assignments and my explanations for them. These could be used to evaluate my knowledge/skills or used by someone as an additional study resource if they're having trouble.
 
 |Algorithm|Course/Class|Explanation|
-|---|---|
+|---|---|---|
 |Karatsube MultiplicationWrite(.)|Stanford Algorithms - Coursera|A recursive implementation of Karatsuba algorithm to multiply big integers in O(N) time.|
 
 ## Self-studying
