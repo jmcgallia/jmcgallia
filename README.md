@@ -17,13 +17,14 @@ Where to build public transit in the US (public transit study.) (IN PROGRESS)
 
 [8-Week SQL Challenge](https://github.com/jmcgallia/8-week-sql-challenge/tree/main)
 
-## Small Programming Assignments/Projects + Explanations
-According to some wise people, you learn best by teaching. Here are some of my assignments and my explanations for them. These could be used to evaluate my knowledge/skills or used by someone as an additional study resource if they're having trouble.
+## Computer Science Articles / Programming Assignments
+According to some wise people, you learn best by teaching. Here are some articles I've written about different algorithms or CS topics. I made these partly to reinforce my own learning, but maybe they could be used by someone else to learn something or to evaluate my knowledge.
 
 |Algorithm|Course/Class|Explanation|Tags|
 |---|---|---|---|
 |Karatsube MultiplicationWrite(.)|Stanford Algorithms - Coursera|A recursive implementation of Karatsuba algorithm to multiply big integers in O(N) time.|Divide and Conquer, Recursive|
 |Inversion Counting|Stanford Algorithms - Coursera|A recursive algorithm (based on mergesort) that counts inversions in an array.|Divide and Conquer, Recursive|
+|Master Theorem - Overview|
 
 ## Self-studying
 I've decided to go through a bunch of online courses that interest me or that I don't feel like I mastered enough at uni. Here are my solutions and explanations for the content of each course. I hope this content shows my mastery of the material and eagerness to learn. I also hope that my solutions/explanations might help other students taking these courses.
