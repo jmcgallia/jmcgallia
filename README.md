@@ -24,7 +24,7 @@ According to some wise people, you learn best by teaching. Here are some article
 |---|---|---|---|
 |Karatsube MultiplicationWrite(.)|Stanford Algorithms - Coursera|A recursive implementation of Karatsuba algorithm to multiply big integers in O(N) time.|Divide and Conquer, Recursive|
 |Inversion Counting|Stanford Algorithms - Coursera|A recursive algorithm (based on mergesort) that counts inversions in an array.|Divide and Conquer, Recursive|
-|Master Theorem - Overview and basic proof|My overview of the utility and logic of the master theorem, and a quick proof of it as well.| Time Complexity, Recursive, Divide and Conquer, Algorithms|
+|Master Theorem - Overview and basic proof|Stanford Algorithms - Coursera|My overview of the utility and logic of the master theorem, and a quick proof of it as well.| Time Complexity, Recursive, Divide and Conquer, Algorithms|
 
 ## Self-studying
 I've decided to go through a bunch of online courses that interest me or that I don't feel like I mastered enough at uni. Here are my solutions and explanations for the content of each course. I hope this content shows my mastery of the material and eagerness to learn. I also hope that my solutions/explanations might help other students taking these courses.
