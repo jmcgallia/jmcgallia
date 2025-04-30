@@ -13,10 +13,11 @@ Below are my data analytics and web-development projects.
 
 [Visualizing the affordability of housing on minimum wage over time (by county.)](https://github.com/jmcgallia/mw_housing)
 
-Where to build public transit in the US (public transit study.) (IN PROGRESS)
+[Web Dev projects](https://github.com/jmcgallia/webdev_portfolio)
 
 [8-Week SQL Challenge](https://github.com/jmcgallia/8-week-sql-challenge/tree/main)
 
+<!--
 ## Computer Science Articles / Programming Assignments
 According to some wise people, you learn best by teaching. Here are some articles I've written about different algorithms or CS topics. I made these partly to reinforce my own learning, but maybe they could be used by someone else to learn something or to evaluate my knowledge.
 
@@ -45,5 +46,5 @@ I've decided to go through a bunch of online courses that interest me or that I 
 
 ## Books I've read lately
 [Reviews/Summaries](https://github.com/jmcgallia/book_reviews/tree/main#readme)
-
+-->
 
