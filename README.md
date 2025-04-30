@@ -6,7 +6,7 @@ Below are my data analytics and web-development projects.
 ## Skills
 **I know** Python, SQL, Excel, Linux CLI, GIT, GitHub. <br>
 **I have used** SAS, C, Java, JavaScript, MERN web-dev stack **but it has been a while.** <br>
-**I am working on** sharpening base computer science skills and learning about ML. <br>
+**I am working on** getting gud at math since it's the foundation for everything. <br>
 **I also have experience** working as a data scientist and in many different service-industry jobs.<br>
 
 ## Projects
